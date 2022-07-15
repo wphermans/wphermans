@@ -1,6 +1,6 @@
 ### About me
 
-A Veteran of the US Army, serving the majority of my military career in Kitzingen Germany as part of the 3RD Infantry Division.
+A Veteran of the US Army, serving the majority of my military career in Kitzingen Germany as an enlisted soldier in the 3RD Infantry Division.
 
 Since my military service, I have done many different types of work, but have always had Programming as a serious hobby since 1993. Starting off with MS Basic, Assembly(briefly), then onto C. Prefering to write code that runs on Linux, in C, whenever possible, I am flexible enough to use whichever programming language, and technology that is best suited for the job.
 
