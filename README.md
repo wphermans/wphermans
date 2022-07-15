@@ -8,7 +8,7 @@ Current interests as partially stated in my BIO do include Web technologies such
 
 In addition to the programming languages mentioned in my Bio, I have hands on with C++, VB.NET, C#, ASP.NET, Golang, Python, HTML, and CSS.
 
-As for technologies, I find Blockchain, WEB 3.0, Machine learning, and CI/CD Pipelines, and / or DevOps the most interesting.
+As for technologies, I find Blockchain, WEB 3.0, Machine learning, and CI/CD Pipelines, and / or DevOps the most interesting. Of course, I am also still very much interested in Embedded Systems Development, primarily Embedded Linux Systems that use an ARM processor.
 
 
 
